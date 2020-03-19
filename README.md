@@ -2,9 +2,11 @@ CS4550: Web Development
 
 Project Title: NUBAY
 
+Repository Purpose: Frontend Client for users
+
 Authors: Saif Billah, Andre Dahan, and Ronit Sharma
 
-Technologies used: React, HTML, CSS, Javascript, Ebay API
+Technologies used: React, HTML, CSS, Javascript, Ebay API, Heroku
 
 ## 1. State the problem you are trying to solve. Include a description of at least two types of users that would use your Web application. For each of the types of users, provide two goals the user would like to achieve with your Web application.
 

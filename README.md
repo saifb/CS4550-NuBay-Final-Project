@@ -12,4 +12,4 @@ The problem that we want to solve is that there isn't an easy to use, Northeaste
 
 If you would like to check out our website, here it is: http://nubay-frontend.herokuapp.com
 
-Note: It will most likely take a bit of time to load initially because heroku needs to get it all fired up :) 
+Note: It will most likely take a bit of time to load initially because heroku needs to get it all fired up :) If the website doesn't load or if the photos / items do not load, then this most likely means the heroku servers have been deleted.
